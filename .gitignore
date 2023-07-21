@@ -1,0 +1,10 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+# Virtual environment
+.venv
+# Editor-specific
+.vscode
+#Desktop Services Store
+.DS_Store
+.DS_Store/
